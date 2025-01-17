@@ -2,50 +2,58 @@
 
 ---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Senior level & 100 DL projects</p></br></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
----
-
-### Areas of Expertise:
-- 🧠 Machine Learning & Deep Learning
-- 🤖 Robotics & Automation (TurtleBot3, ROS)
-- 📊 Data Analysis & Visualization
-- 💻 System Design & Integration
-
+<table>
+  <tr>
+    <td valign="top">
+      <h2>GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=baxtiyorov3407&show_icons=true&theme=radical" alt="Firdavs's GitHub Stats" />
+    </td>
+    <td valign="top">
+      <h2>I code with</h2>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+      </div>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyorov3407&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-
-## 📈 GitHub Stats
-
-![Firdavs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baxtiyorov3407&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyorov3407&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td valign="top">
+      <h2 align="left">Areas of Expertise:</h2>
+      <ul>
+        <li>🧠 Machine Learning & Deep Learning</li>
+        <li>🤖 Robotics & Automation (TurtleBot3, ROS)</li>
+        <li>📊 Data Analysis & Visualization</li>
+        <li>💻 System Design & Integration</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left: 50px;">
+      <h2 align="left">About me</h2>
+      <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Senior level & 100 DL projects</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,5 +71,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
- ---
