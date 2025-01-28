@@ -1,28 +1,5 @@
 # 👨‍💻 Bakhtiyorov Firdavs | Senior Engineering Student at Inha University 🇰🇷
 
----
-
-<table>
-  <tr>
-    <td valign="top">
-      <h2>GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=baxtiyorov3407&show_icons=true&theme=radical" alt="Firdavs's GitHub Stats" />
-    </td>
-    <td valign="top">
-      <h2>I code with</h2>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-      </div>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyorov3407&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 <table>
   <tr>
     <td valign="top">
