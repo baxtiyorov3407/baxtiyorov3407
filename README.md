@@ -14,7 +14,7 @@
     <td valign="top">
       <div style="margin-left: 100px;">
         <h2 align="left">About me</h2>
-        <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Senior level & 100 DL projects</p>
+        <p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Senior level & 100 DL projects</p>
       </div>
     </td>
   </tr>
