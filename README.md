@@ -1,4 +1,4 @@
-# 👨‍💻 Bakhtiyorov Firdavs | Senior Engineering Student at Inha University 🇰🇷
+# 👨‍💻 Bakhtiyorov Firdavs | Software Developer at Spoclip
 
 <table>
   <tr>
@@ -14,7 +14,7 @@
     <td valign="top">
       <div style="margin-left: 100px;">
         <h2 align="left">About me</h2>
-        <p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Senior level & 100 DL projects</p>
+        <p align="left">✨ Creating bugs since 2016<br>💼 Currently working as a Software Developer @ <strong>Spoclip</strong><br>🎯 Goals: Senior level & 100 DL projects</p>
       </div>
     </td>
   </tr>
